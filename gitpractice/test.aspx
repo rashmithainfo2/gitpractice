@@ -23,7 +23,13 @@
                         <asp:TextBox ID="txtMiddleName" runat="server" CssClass="form-control txtbox" Enabled="false"></asp:TextBox>
                     </td>
                     <td>
+ 
+                        <asp:Label ID="lblLastName" runat="server" Text="LastName" ></asp:Label>
+                      <asp:Label ID ="IblPara" Text ="i have change in this" ></asp:label>
+                      <asp:Label ID ="IblPara1" Text ="hi" ></asp:label>
+
                         <asp:Label ID="lblLastName" runat="server" Text="LNae" ></asp:Label>
+
                     </td>
                     <td>
                         <asp:TextBox ID="txtLastName" runat="server" CssClass="form-control txtbox" Enabled="false"></asp:TextBox>
