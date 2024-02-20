@@ -18,8 +18,8 @@
                     <Items>
                         <asp:MenuItem Text="about us" Value="about us">
                             <asp:MenuItem Text="Company" Value="Company"></asp:MenuItem>
-                            <asp:MenuItem Text="Careers" Value="careers"></asp:MenuItem>
-                            <asp:MenuItem Text="Contact us " Value="Contact us "></asp:MenuItem>
+                            <asp:MenuItem Text="Careers" Value="Careers"></asp:MenuItem>
+                            <asp:MenuItem Text="Contact us" Value="Contactus "></asp:MenuItem>
                         </asp:MenuItem>
                     </Items>
                 </asp:Menu>
